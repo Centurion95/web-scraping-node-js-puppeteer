@@ -13,9 +13,13 @@ cd web-scraping-node-js-puppeteer
 code .
 ```
 
-## Ejecutar
+## Antes de ejecutar por primera vez, instalar las dependencias
 ```sh
 npm i
+```
+
+## Ejecutar el proyecto
+```sh
 npm start
 ```
 
