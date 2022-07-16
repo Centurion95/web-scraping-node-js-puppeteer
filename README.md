@@ -1,6 +1,8 @@
 # Web Scraping con NodeJS y Puppeteer
 Proyecto de Web Scraping simple con NodeJS y Puppeteer listo para clonar y modificar
 
+Desarrollado en Linux (Debian10), VSCode
+
 - Rodrigo Centurión
 (Asunción, Paraguay)
 
