@@ -14,14 +14,14 @@ code .
 ## Ejecutar
 ```sh
 npm i
-node clasipar.js
+npm start
 ```
 
 
 ## Acerca de
 rc95 - 16/07/2022 11:55
-- Se agrega package.json para iniciar con: npm i
-- Se agrega el script: npm start
+- Se agrega package.json para iniciar con: `npm i`
+- Se agrega el script: `npm start`
 - Cambios en el readme.md
 - Cambios en clasipar.js para eliminar dependencias innecesarias
 - Se agrega .gitignore
