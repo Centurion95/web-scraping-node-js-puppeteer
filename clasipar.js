@@ -16,7 +16,8 @@ const getDate = () => {
     const browser = await puppeteer.launch({
         headless: false, //con esto, hacemos que el navegador sea visible (¿hace que el page.pdf no funcione?)
         // slowMo: 250, // slow down by 250ms
-        // executablePath: '/path/to/Chrome' // Runs a bundled version of Chromium
+        executablePath: '/usr/bin/google-chrome' // Runs a bundled version of Chromium
+        // https://unix.stackexchange.com/questions/436835/universal-path-for-chrome-on-nix-systems#:~:text=%2Fusr%2Fbin%2Fchrome,On%20PATH
     })
 
     console.log(getDate() + ' >>>  Abriendo el navegador...')

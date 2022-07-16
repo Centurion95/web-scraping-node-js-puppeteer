@@ -25,6 +25,9 @@ npm start
 
 
 ## Acerca de
+rc95 - 16/07/2022 12:45
+- Ahora se ejecuta desde Google-Chrome: executablePath: '/usr/bin/google-chrome' (en clasipar.js)
+
 rc95 - 16/07/2022 11:55
 - Se agrega package.json para iniciar con: `npm i`
 - Se agrega el script: `npm start`
