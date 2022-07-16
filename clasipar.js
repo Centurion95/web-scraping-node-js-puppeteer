@@ -18,6 +18,8 @@ const getDate = () => {
         // slowMo: 250, // slow down by 250ms
         executablePath: '/usr/bin/google-chrome' // Runs a bundled version of Chromium
         // https://unix.stackexchange.com/questions/436835/universal-path-for-chrome-on-nix-systems#:~:text=%2Fusr%2Fbin%2Fchrome,On%20PATH
+        // para windows: https://stackoverflow.com/questions/40674914/google-chrome-path-in-windows-10
+        // executablePath: 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe'
     })
 
     console.log(getDate() + ' >>>  Abriendo el navegador...')
