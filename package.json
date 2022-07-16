@@ -1,0 +1,24 @@
+{
+  "name": "web-scraping-node-js-puppeteer",
+  "version": "1.0.0",
+  "description": "Proyecto de Web Scraping simple con NodeJS y Puppeteer listo para clonar y modificar",
+  "main": "clasipar.js",
+  "scripts": {
+    "start": "node clasipar.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Centurion95/web-scraping-node-js-puppeteer.git"
+  },
+  "keywords": [],
+  "author": "Rodrigo Centurión",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Centurion95/web-scraping-node-js-puppeteer/issues"
+  },
+  "homepage": "https://github.com/Centurion95/web-scraping-node-js-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^15.4.0"
+  }
+}

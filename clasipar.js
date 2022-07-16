@@ -3,9 +3,7 @@
 
 // https://pptr.dev/
 // https://pptr.dev/api/
-const { application } = require('express');
 const puppeteer = require('puppeteer');
-const { string } = require('yargs');
 
 const getDate = () => {
     // https://stackoverflow.com/questions/8362952/javascript-output-current-datetime-in-yyyy-mm-dd-hhmsec-format
@@ -87,7 +85,7 @@ const getDate = () => {
     console.log(getDate() + ` >>>  Items encontrados:`)
     console.log(listaProductos)
     console.log(getDate() + ` >>>  Finalizó el proceso..`)
-    
+
     await browser.close()
 })()
 
