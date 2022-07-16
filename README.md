@@ -1,6 +1,7 @@
 # Web Scraping con NodeJS y Puppeteer
 Proyecto de Web Scraping simple con NodeJS y Puppeteer listo para clonar y modificar
--Rodrigo Centurión
+
+- Rodrigo Centurión
 (Asunción, Paraguay)
 
 ## Clonar el proyecto
