@@ -1,11 +1,15 @@
-//rc95 16/07/2022 11:24
+# Web Scraping con NodeJS y Puppeteer
+rc95 16/07/2022 11:24
 
-//Abrir la consola en la carpeta donde deseamos clonar el proyecto
-
+## Clonar el proyecto
+```sh
 git clone https://github.com/Centurion95/web-scraping-node-js-puppeteer.git
-
+cd /web-scraping-node-js-puppeteer
 code .
+```
 
+## Ejecutar
+```sh
 npm i
-
 node clasipar.js
+```
