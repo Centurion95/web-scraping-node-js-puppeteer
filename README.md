@@ -25,6 +25,9 @@ npm start
 
 
 ## Acerca de
+rc95 19/07/2022 20:56
+- Se corrige la función getDate()
+
 rc95 - 16/07/2022 13:19
 - Ahora se ejecuta desde Google-Chrome: executablePath: '/usr/bin/google-chrome' (en clasipar.js)
 - Se agrega executablePath para Windows
